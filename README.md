@@ -1,6 +1,6 @@
 <main class="col-md" style="margin-bottom: 0px; margin-top: 0px;">
 
-<a data-id="" id="mario-the-goal-update" style="top: 0px;"></a><h1><a data-id="" href="#mario-the-goal-update">Mario: The Goal Update</a></h1>
+<a data-id="" id="mario-the-goal-update" style="top: 0px;"></a><h1><a data-id="" href="#mario-the-goal-update">Mario: Level 1 Victory</a></h1>
 
 <a data-id="" id="objectives" style="top: 0px;"></a><h2><a data-id="" href="#objectives">Objectives</a></h2>
 
